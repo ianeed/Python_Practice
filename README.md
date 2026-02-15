@@ -1,2 +1,2 @@
-# Python_Practice
+# Python_Program
 Python Practice_Program
