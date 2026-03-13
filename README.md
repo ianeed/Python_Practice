@@ -1,2 +1,1 @@
-# Python_Program
-Python Practice_Program
+Amazon-Prime-EDA
